@@ -42,7 +42,13 @@ pip install phonenumbers folium requests argparse colorama
    - It will detect and print the current IP-based location and will attempt to reverse geocode it using OpenCage.
    - Finally, it saves an interactive map (HTML file) showing the location, which can be opened in any browser.
 
-## Disclaimer
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+### Disclaimer
 
 Use this tool responsibly. It is designed for educational purposes and should respect privacy and legal boundaries. Ensure you have permission before tracking or displaying location information.
 
