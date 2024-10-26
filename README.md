@@ -45,7 +45,7 @@ pip install phonenumbers folium requests argparse colorama
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ### Disclaimer
