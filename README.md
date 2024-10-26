@@ -1,4 +1,4 @@
-## Phone Tracker
+## PhoneTracker📍
 
 This project is a phone number tracking tool that locates the approximate geographical registration area of a phone number and displays it on an interactive map. It combines multiple sources, including OpenCage Geocoding and IP-based location detection, to provide an enhanced and detailed location experience. 
 
